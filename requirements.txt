@@ -1,0 +1,10 @@
+Django
+djangorestframework
+django-cors-headers
+Pillow
+gunicorn
+psycopg2-binary
+python-dotenv
+djoser
+drf-yasg
+PyJwt==2.1.0
